@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Tenk\Tenk\bin\Debug\Tenk.exe.config
+C:\Users\DELL\source\repos\Tenk\Tenk\bin\Debug\Tenk.exe
+C:\Users\DELL\source\repos\Tenk\Tenk\bin\Debug\Tenk.pdb
+C:\Users\DELL\source\repos\Tenk\Tenk\obj\Debug\Tenk.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Tenk\Tenk\obj\Debug\Tenk.Properties.Resources.resources
+C:\Users\DELL\source\repos\Tenk\Tenk\obj\Debug\Tenk.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Tenk\Tenk\obj\Debug\Tenk.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Tenk\Tenk\obj\Debug\Tenk.exe
+C:\Users\DELL\source\repos\Tenk\Tenk\obj\Debug\Tenk.pdb
+C:\Users\DELL\source\repos\Tenk\Tenk\obj\Debug\Tenk.Tenk1.resources
